@@ -1,0 +1,22 @@
+class CelebritiesRunner{
+
+public static void main(String [] args){
+int age=Celebrities.setAge(24);
+float height =Celebrities.setHeight(5.9f);
+char initial= Celebrities.setInitial('a');
+ double setNetWorth=Celebrities.setNetWorth(756);
+ long setFollowers=Celebrities.setFollowers(76686l);
+  boolean setActive=Celebrities.setActive(true);
+   String setName=Celebrities.setName("anesh");
+   
+   
+   System.out.println(age);
+     System.out.println(height); 
+   System.out.println(initial);   
+   System.out.println(setNetWorth);
+   System.out.println(setFollowers);
+   System.out.println(setActive);
+   System.out.println(setName);
+
+} 
+}

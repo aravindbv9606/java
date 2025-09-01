@@ -1,0 +1,16 @@
+class GaneshDots{
+    public static void main(String[] args) {
+        System.out.println("     .-''''-.    ");
+        System.out.println("   .'        '.  ");
+        System.out.println("  /   _    _   \ ");
+        System.out.println(" |  (o)  (o)   |  ");
+        System.out.println(" |     /\\     |  ");
+        System.out.println(" \\    ==     /  ");
+        System.out.println("  '.____.'   ");
+        System.out.println("    /____\\     ");
+        System.out.println("   || || ||    ");
+        System.out.println("   || || ||    ");
+        System.out.println("  (_)(_)(_)    ");
+        System.out.println("Jai Shri Ganesh");
+    }
+}

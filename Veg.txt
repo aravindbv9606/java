@@ -1,0 +1,15 @@
+class Veg{
+public Static void idle(){
+System.ouot.print("samber idle");
+}
+public Static void palava(){
+idle();
+System.out.print("vegtables");
+}
+public Static void papda(){
+palava();
+System.out.print("papda");
+
+}
+
+}
