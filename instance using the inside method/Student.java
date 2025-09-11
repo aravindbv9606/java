@@ -1,9 +1,9 @@
  class Student {
-    public String name = "Aravind";
-    public int age = 23;
-    public char grade = 'A';
-    public float percentage = 88.5f;
-    public boolean isPassed = true;
+    private String name = "Aravind";
+    private int age = 23;
+    private char grade = 'A';
+    private float percentage = 88.5f;
+    private boolean isPassed = true;
 
     public String getName() {
         return name;

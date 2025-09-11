@@ -1,9 +1,9 @@
 lass Laptop {
-    public String brand = "Dell";
-    public String processor = "i7";
-     public int ram = 16;
+   public String brand = "Dell";
+   public String processor = "i7";
+   public int ram = 16;
     public int storage = 512;
-    public boolean isSSD = true;
+   public boolean isSSD = true;
 
     public String getBrand() {
         return brand;

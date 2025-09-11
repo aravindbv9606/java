@@ -1,9 +1,9 @@
  class Mobile {
-     public String brand = "Samsung";
-     public int ram = 8;
-     public int storag=128;
-	 public  float screenSize = 6.5f;
-     public boolean has5G = true;
+    private String brand = "Samsung";
+    private int ram = 8;
+    private int storag=128;
+	private float screenSize = 6.5f;
+    private boolean has5G = true;
 
     public String getBrand() {
         return brand;
