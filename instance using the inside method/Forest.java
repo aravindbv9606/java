@@ -1,16 +1,15 @@
 class Forest {
-    private String forestName = "Elephant";
-    private byte treeCount = 10;
-    private short animalCount = 100;
-    private int forestId = 123;
-    private long totalArea = 1000L;
-    private float waterLevel = 50.5f;
-    private double rainfall = 300.75;
-    private char zone = 'A';
-    private boolean isProtected = true;
+     public String forestName = "Elephant";
+     public byte treeCount = 10;
+     public short animalCount = 100;
+     public int forestId = 123;
+    public long totalArea = 1000L;
+    public float waterLevel = 50.5f;
+    public double rainfall = 300.75;
+     public char zone = 'A';
+    public boolean isProtected = true;
 
-    // Getters
-    public String getForestName() {
+       public String getForestName() {
         return forestName;
     }
 

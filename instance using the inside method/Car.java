@@ -1,9 +1,9 @@
 class Car {
-    private String brand = "Toyota";
-    private String model = "Innova";
-    private int year = 2020;
-    private double mileage = 18.5;
-    private boolean isElectric = false;
+    public String brand = "Toyota";
+     public String model = "Innova";
+    public int year = 2020;
+    public double mileage = 18.5;
+    public boolean isElectric = false;
 
     public String getBrand() {
         return brand;
