@@ -1,0 +1,7 @@
+class Soda {
+    public static void displaySoda(MountainDueStore mountainDueStore) {
+		MountainDue mountainDue=new MountainDue();
+        mountainDueStore.displayMountainDueStore(mountainDue);
+        System.out.println("Enter the soda");
+    }
+}
