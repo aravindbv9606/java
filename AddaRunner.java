@@ -16,4 +16,3 @@
         System.out.println(isIndoor);
         System.out.println(place);
     }
-}
