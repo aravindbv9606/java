@@ -22,7 +22,7 @@ public class BooksRunner {
 
         BookDetail bookDetail= new BookDetailimpl();
         BookCategory name=new BookCategory('C',98767890);
-      bookDetail.category(name);
+        bookDetail.category(name);
         BookDetails value=new BookDetails(950,false);
         bookDetail.details(value);
         BookInfo num=new BookInfo(2.2f,"Navya kumari");

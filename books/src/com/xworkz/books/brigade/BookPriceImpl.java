@@ -1,6 +1,7 @@
 package com.xworkz.books.brigade;
 
-import com.xworkz.books.internal.*;
+import com.xworkz.books.Internal.*;
+
 
 public class BookPriceImpl implements BookPrice{
     public BookCategory category(BookCategory bookCategory) {
