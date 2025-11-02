@@ -7,7 +7,7 @@ public class WrapperRunner {
 
     public static void main(String[] args) {
 
-       wrapper rapper = new wrapper();
+        wrapper rapper = new wrapper();
 
         Integer result = new Integer (rapper.price);
         System.out.println(result);//boxing
